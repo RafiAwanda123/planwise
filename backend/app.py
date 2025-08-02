@@ -67,7 +67,7 @@ def create_app(config_name=None):
     def api_info():
         """API information endpoint"""
         return jsonify({
-            'name': 'ERP Webapp API',
+            'name': 'Plan Wise',
             'version': '1.0.0',
             'description': 'Enterprise Risk Management System for Personal Finance',
             'endpoints': {
@@ -84,7 +84,7 @@ def create_app(config_name=None):
     @app.route('/')
     def index():
         return {
-            'message': 'ERP Project Risk Managenet',
+            'message': 'Plan Wise Enterprise Risk Management',
             'status': 'running',
             'version': '1.0.0',
             'endpoints':{
