@@ -1,4 +1,4 @@
-# ERP Webapp - Enterprise Risk Management System
+# Plan Wise - Enterprise Risk Management System
 
 A comprehensive web application for personal financial risk management, built with modern technologies and following ISO 31000:2018 framework principles.
 
