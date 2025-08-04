@@ -29,7 +29,7 @@ A comprehensive web application for personal financial risk management, built wi
 ## 🏗️ Architecture
 
 ```
-erp-webapp/
+planwise/
 ├── backend/                 # Flask API server
 │   ├── controllers/         # Request handlers
 │   ├── models/             # Database models
