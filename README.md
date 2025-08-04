@@ -1,4 +1,4 @@
-# Plan Wise - Enterprise Risk Management System
+# Planwise - Enterprise Risk Management System
 
 A comprehensive web application for personal financial risk management, built with modern technologies and following ISO 31000:2018 framework principles.
 
@@ -95,7 +95,7 @@ erp-webapp/
 ### 1. Clone the Repository
 ```bash
 git clone <repository-url>
-cd erp-webapp
+cd planwise
 ```
 
 ### 2. Environment Setup
