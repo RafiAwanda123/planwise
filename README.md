@@ -484,9 +484,8 @@ pip install -r requirements.txt
 ```
 
 ### Getting Help
-- Check the [Issues](https://github.com/your-repo/issues) page
-- Review the [Documentation](docs/)
-- Contact support: support@yourcompany.com
+- Check the [Issues](https://github.com/RafiAwanda123/planwise) page
+- Contact support: awandarafi345@gmail.com
 
 ## 🔄 Updates and Maintenance
 
